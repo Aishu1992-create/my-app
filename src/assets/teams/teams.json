@@ -1,0 +1,37 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "API Reference 17.2",
+      "url" :"https://ndc.ba.com/docs/api"
+    },
+    {
+      "id": 2,
+      "name": "NDC",
+      "url":"https://ndc.ba.com/"
+    },
+    {
+      "id" :3,
+      "name": "NDC High level Roadmap",
+      "url":"https://ndc.ba.com/capability/ndc-roadmap"
+    },
+    {
+      "id":4,
+      "name":"Support",
+      "url":"https://ndc.ba.com/support"
+    },
+    {
+      "id":"5",
+      "name":"FAQ",
+      "url":"https://ndc.ba.com/faq/commercial"
+    },
+    {
+      "id":"6",
+      "name":"Travel Sky NDC",
+      "url":"https://ndc.ba.com/news/2022/travelsky-ndc-agreement"
+    }
+  ]
+}
+
+
+
